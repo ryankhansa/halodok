@@ -2,4 +2,4 @@
 @zamoo|900|elang
 @sudikin|2312|garuda
 @sahrini|1232|cakar
-@trial|40|trial
+@trial1|40|trial
