@@ -1,5 +1,5 @@
-@zuma82929|300
-@zamoo|900
-@sudikin|2312
-@sahrini|1232
-@trial|40
+@zuma82929|300|bulu
+@zamoo|900|elang
+@sudikin|2312|garuda
+@sahrini|1232|cakar
+@trial|40|trial
